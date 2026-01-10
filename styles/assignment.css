@@ -109,6 +109,191 @@ nav .menu a{
   margin: 0 auto;
   padding: 115.5px 120px 179.5px 120px;
 }
+#about{
+  width: 100%;
+  max-width: 1600px;
+  
+  
+}
+#about .about-info h4{
+  font-size: 60px;
+  font-weight: bold;
+  margin-bottom: 16px;
+  text-align: center;
+  padding-top: 40px;
+  
+}
+#about .about-info p{
+  font-size: 16px;
+  margin-bottom: 44px;
+  color:#627382;
+  text-align: center;
+}
+#about .card{
+  width: 1360px;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 48px 120px 120px;
+  display: flex;
+  gap: 24px;
+  background-color: white;
+  
+}
+.card .info-card{
+  box-shadow:  0 6px 50px 0 #00000071;
+  text-align: center;
+}
+.card .info-card h5{
+  padding-bottom: 16px;
+
+}
+.card .info-card p{
+  padding: 0 24 0 24px;
+  text-align: center;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+
+ .card .info-card img{
+  margin: 69.5px 110px 16px 110px;
+  border-radius:50px;
+  background: orange;
+  
+ }
+ #solution{
+  width: 100%;
+  max-width: 1600px;
+ }
+  #solution .result{
+    margin: 120px;
+    width: 100%;
+    max-width: 1360px;
+    display: flex;
+  }
+  .context{
+    padding: 120px 0 120px 60px;
+  }
+  .context p{
+    font-size: 16px;
+    font-weight: medium;
+    color: green;
+    margin-bottom: 16px;
+
+  }
+  .context h4{
+    font-size: 48px;
+    font-weight: bold;
+    margin-bottom: 16px;
+  }
+  .context .p1{
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 40px;
+    color: #627382;
+  }
+  .context .motive {
+    list-style-type: none;
+  
+
+  }
+  .context .motive li{
+    margin-bottom: 16px;
+  }
+  #more{
+    width: 100%;
+    max-width: 1600px;
+  }
+  #more .more-container{
+    width: 100%;
+    max-width: 1360px;
+    height: 384px;
+    margin: 0 120px 120px 120px;
+    background-color: #F7F6F2;
+    text-align: center;
+  }
+  .more-container .more-info h5{
+    font-size: 40px;
+    font-weight: bold;
+    padding: 80px 40px 16px 40px;
+
+
+  }
+  .more-container .more-info p{
+    font-size: 16px;
+    font-weight: 400px;
+    line-height: 24px;
+    margin-bottom: 24px;
+  }
+  .more-container .more-info button{
+    font-size: 16px;
+    font-weight: 600;
+    color: white;
+    padding: 16.5px 46px 16.5px 16px;
+    margin-bottom: 16px;
+    border-radius: 5px;
+    background-color: green;
+  }
+   .more-container .more-info .bottom{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    color: #627382;
+   }
+   #last{
+    width: 100%;
+    max-width: 1600px;
+    background-color: rgb(4, 4, 56);
+    height: 384px;
+   }
+   #last .last-item{
+    display: flex;
+    align-items: center;
+  
+    justify-content: space-around;
+   }
+     #last .last-item p{
+      color: white;
+      font-size: 20px;
+      line-height: 28px;
+      font-weight: 500;
+     }
+      .last p{
+      text-align: center;
+      font-size: 16px;
+      font-weight: 400;
+      line-height: 24px;
+      color: white;
+     }
+     #last hr{
+      width: 20%;
+      max-width: 1360px;
+      color: #627382;
+      align-items: center;
+      margin-bottom: 30px;
+       width: 50%;
+       margin: 20px auto;
+
+      
+ 
+
+     }
+     #last .last-item img{
+      margin: 120px 0 84px 120px;
+     }
+      #last .last-item p{
+        margin: 120px 120px 80px 0;
+      } 
+     
+  
+  
+  
+  
+
+
+
+
+
   
 
 
